@@ -1,0 +1,30 @@
+.about {
+    width: 90%;
+    margin: 5%;
+}
+.pictures {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.picturebox1 {
+    width: 200px;
+    max-width: 200px;
+    border: 2px black solid;
+    border-radius: 2px;
+    height: 200px;
+    margin: 16px;
+}
+.picturebox2 {
+    width: 200px;
+    max-width: 200px;
+    border: 2px black solid;
+    border-radius: 2px;
+    height: 200px;
+    margin: 16px;
+}
+
+.contact {
+    width: 30%;
+    margin-left: 35%;
+}
